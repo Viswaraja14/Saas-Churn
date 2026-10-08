@@ -197,4 +197,4 @@ Predictions alone do not identify the cause of churn or prove that a particular 
 - **Extend the evaluation:** Add ROC-AUC and precision-recall analysis, and compare Logistic Regression with other suitable classifiers.
 - **Prepare for deployment only after validation:** A real service would need a repeatable preprocessing-and-model pipeline, monitoring, and a process for retraining and reviewing outcomes.
 
-Author- Viswaraja
+
